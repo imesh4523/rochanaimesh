@@ -1,0 +1,11 @@
+{
+    "name": "rochana-imesh-portfolio",
+    "version": "1.0.0",
+    "description": "Professional Portfolio of Rochana Imesh",
+    "main": "index.html",
+    "scripts": {
+        "start": "npx serve ."
+    },
+    "author": "Rochana Imesh",
+    "license": "MIT"
+}
